@@ -1,0 +1,11 @@
+id,nom_offre,type_offre,prix_fcfa,validite,description,code_activation
+1,Yas Go 100,internet,100,1 jour,100 Mo valables 24h,*123*1#
+2,Yas Go 500,internet,500,7 jours,1 Go valable 7 jours,*123*3#
+3,Yas Go 1000,internet,1000,30 jours,3 Go valables 30 jours,*123*4#
+4,Yas Go 2000,internet,2000,30 jours,8 Go valables 30 jours,*123*5#
+5,Yas Nuit,internet,200,1 nuit,Illimité de 23h à 6h,*123*7#
+6,Yas Social,internet,500,7 jours,500 Mo pour WhatsApp et Facebook,*123*8#
+7,Yas Appels 180,voix,1000,30 jours,180 minutes vers tous les réseaux,*124*2#
+8,Yas Illimité Yas,voix,1500,30 jours,Appels illimités vers Yas uniquement,*124*3#
+9,Yas Mix 1000,mixte,1000,7 jours,500 Mo + 30 min d'appels + 30 SMS,*125*1#
+10,Yas Mix 5000,mixte,5000,30 jours,6 Go + 120 min d'appels + 100 SMS,*125*3#

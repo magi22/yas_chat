@@ -1,0 +1,13 @@
+id,category,question,answer
+1,activation,"Comment activer ma SIM Yas ?","Composez le *101# et suivez les instructions. En agence, présentez votre CNI."
+2,recharge,"Comment recharger mon crédit Yas ?","Via scratch card (*102*CODE#), Wave, Orange Money, Free Money, ou en agence."
+3,internet,"Comment activer un forfait internet ?","Composez le *123# et choisissez Forfaits Internet, ou envoyez le code au 123."
+4,internet,"Mon internet ne fonctionne pas, que faire ?","Vérifiez votre forfait (*123#), activez les données mobiles, redémarrez. Si ça persiste, appelez le 1212."
+5,facturation,"Comment consulter mon solde ?","Composez le *100# pour voir votre solde et sa date d'expiration."
+6,service_client,"Quel est le numéro du service client ?","1212 (gratuit depuis Yas) ou +221 33 800 12 12, disponible 7j/7 de 7h à 22h."
+7,sim,"Comment remplacer une SIM perdue ou volée ?","Bloquez d'abord en appelant le 1212, puis rendez-vous en agence avec votre CNI (500 FCFA)."
+8,portabilite,"Comment faire la portabilité vers Yas ?","Rendez-vous en agence avec CNI et code PUK de l'ancienne SIM. Délai : 48 à 72h."
+9,agence,"Où se trouvent les agences Yas à Dakar ?","Agence Plateau : Avenue Léopold Sédar Senghor, Lun-Sam 8h-18h. Agence Almadies : Route des Almadies, Lun-Sam 8h30-19h. Agence Pikine : Marché Zinc, Lun-Sam 8h-18h."
+10,agence,"Où se trouvent les agences Yas en régions ?","Thiès : Rue du Commerce face à la mairie. Saint-Louis : Rue Blaise Diagne. Kaolack : Avenue Valdiodio Ndiaye. Touba : Avenue Cheikh Ahmadou Bamba. Horaires : Lun-Ven 8h-17h30, Sam 9h-13h."
+11,procedure,"Comment souscrire à un forfait ?","Composez le code USSD de l'offre (ex : *123*4# pour Yas Go 1000) et confirmez. Ou connectez-vous sur yas.sn dans Mon espace client."
+12,procedure,"Comment activer le roaming international ?","Composez le *456# depuis votre téléphone, sélectionnez Activer le roaming, choisissez la destination et confirmez."
